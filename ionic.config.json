@@ -1,0 +1,7 @@
+{
+  "name": "Riyal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
